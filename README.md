@@ -18,3 +18,8 @@ git clone https://github.com/yourusername/kaggle-dataexploration.git
 3. Review the analysis.
 ## Author
 **Jennifer Andrew**
+```sh
+def upload-file(filepath):
+     file.upload(filepath)
+     return upload
+```
